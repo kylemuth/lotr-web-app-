@@ -8,9 +8,6 @@ function App() {
 
   return (
     <div className="App">
-      <header>
-        <h1>Lord of The Rings API</h1>
-      </header>
       <main>
         <Dashboard />
       </main>
